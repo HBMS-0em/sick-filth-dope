@@ -8,11 +8,11 @@ ufw default allow outgoing
 ♡
 apt install cryptsetup
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
-sudo cryptsetup open /dev/sda0 <Yummi0>
+sudo cryptsetup open /dev/sda0 <Apple0>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
-sudo cryptsetup open /dev/sda1 <Yummi1>
+sudo cryptsetup open /dev/sda1 <Apple1>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda2
-sudo cryptsetup open /dev/sdxy <Yummi2>
+sudo cryptsetup open /dev/sdxy <Apple2>
 ♡
 ○○○
 sudo get upgrade
@@ -45,20 +45,5 @@ sudo snap install snapd
 sudo install snap store
 >file 
 apt install cryptsetup
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2c
-sudo cryptsetup open /dev/sda3. 2c <Spleen>
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2a
-sudo cryptsetup open /dev/sda3. 2a <LeftPsyche>
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2b
-sudo cryptsetup open /dev/sda3. 2b <RightPsyche>
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2b
-sudo cryptsetup open /dev/sda3. 2d <Skull>
 >file 
- ●,.:°` READ ME BY BRENTON HOPKINS `°:..,●
-
- Mindguard 
-This is a psychotronic mind control weapon jammer
-
- 
- I will write you a cool READ ME.
- just later.
+ ●,.:BRENTON 
